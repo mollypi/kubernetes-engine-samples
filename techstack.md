@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mollypi/kubernetes-engine-samples is built on the following main stack:
+
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [PHP](http://www.php.net/) – Languages
 - [Python](https://www.python.org) – Languages
@@ -33,11 +34,13 @@ mollypi/kubernetes-engine-samples is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mollypi/kubernetes-engine-samples is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -69,14 +72,15 @@ mollypi/kubernetes-engine-samples is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mollypi/kubernetes-engine-samples](https://github.com/mollypi/kubernetes-engine-samples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|40<br/>Tools used|11/15/23 <br/>Report generated|
+|40<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -393,10 +397,10 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[emoji](https://pypi.org/emoji)|v2.2.0|11/01/22|WhiteSource Renovate |BSD-3-Clause|N/A|
-|[grpcio](https://pypi.org/grpcio)|N/A|11/19/21|A Mattson |Apache-2.0|N/A|
-|[requests](https://pypi.org/requests)|N/A|11/19/21|A Mattson |Apache-2.0|N/A|
-|[wrapt](https://pypi.org/wrapt)|v1.14.1|05/06/22|WhiteSource Renovate |BSD-2-Clause|N/A|
+|[emoji](https://pypi.org/project/emoji)|v2.2.0|11/01/22|WhiteSource Renovate |BSD-3-Clause|N/A|
+|[grpcio](https://pypi.org/project/grpcio)|N/A|11/19/21|A Mattson |Apache-2.0|N/A|
+|[requests](https://pypi.org/project/requests)|N/A|11/19/21|A Mattson |Apache-2.0|N/A|
+|[wrapt](https://pypi.org/project/wrapt)|v1.14.1|05/06/22|WhiteSource Renovate |BSD-2-Clause|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (1)
@@ -415,4 +419,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
